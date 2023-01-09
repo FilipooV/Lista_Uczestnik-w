@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4S5IAb6rf8DfTa8RLvnLKX4CqO7wA5g/tcL4O7FMD/r3SUFctBBO3SpQftLK+6XviUwsbbpFMV2IdsMhlghwcA==",
+  "success": true,
+  "projectFilePath": "S:\\Filip Trzmiel\\Zadanie z sql\\Liczba_uczestników\\Liczba_uczestników\\Liczba_uczestników.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trzmiel.filip\\.nuget\\packages\\microsoft.data.sqlite\\7.0.1\\microsoft.data.sqlite.7.0.1.nupkg.sha512",
+    "C:\\Users\\trzmiel.filip\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.1\\microsoft.data.sqlite.core.7.0.1.nupkg.sha512",
+    "C:\\Users\\trzmiel.filip\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\trzmiel.filip\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\trzmiel.filip\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\trzmiel.filip\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\trzmiel.filip\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
